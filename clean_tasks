@@ -1,0 +1,3 @@
+In the intiial look as this dataset, the columns with numerical values have entries where there is a ' before the number. This needs to be removed.
+I also noticied that some rows are missing values in one or more columns. I need to remove those rows so that only rows with complete data are present.
+It was difficult to determine whether there were duplicates as there is not a column containing an unique id.
